@@ -186,23 +186,3 @@ footer{
     padding:15px;
     margin-top:40px;
 }
-#btn{
-  padding:10px 20px;
-  font-size:16px;
-  cursor:pointer;
-  transition:0.3s;
-}
-
-.box{
-  opacity:0;
-  transition:1s;
-  margin:50px 0;
-  padding:20px;
-  background-color:#ffcc99;
-  width:200px;
-  text-align:center;
-}
-
-.show{
-  opacity:1;
-}
